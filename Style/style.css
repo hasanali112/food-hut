@@ -1,0 +1,13 @@
+#banner{
+    content: "";
+    background-image: url(/image/im1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    height: 500px;
+    width: 100%;
+    z-index: -1;
+    opacity: .89;
+}
